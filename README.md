@@ -9,27 +9,48 @@ To address this challenge, FicZon seeks to implement a Machine Learning solution
 
 ⚙️ Methodology
 
+
 Data Acquisition 📡
+
 Connected to MySQL database and fetched the data
+
 Data Preprocessing 🔧
+
 Performed basic checks
+
 Removed duplicate entries
+
 Dropped unnecessary columns
 Handled missing and null values
+
 Created new features
+
 Grouped data in relevant columns
+
 Exploratory Data Analysis (EDA) 📈
+
 Conducted EDA to understand data distribution
+
 Checked correlation between features
+
 Dropped least correlated columns
+
 Identified and handled outliers
+
 Feature Engineering 🏗️
+
 Applied mapping and encoding for categorical data
+
 Model Development 🤖
+
 Split data into training and testing sets
+
 Trained machine learning models
+
 Evaluated models using accuracy, precision, recall, and F1-score
+
 Made predictions using the trained models
+
 
 
 ✅ Expected Outcomes
